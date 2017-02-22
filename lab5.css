@@ -1,0 +1,16 @@
+
+body { background-color: #ffe44f;} /*changes background color of body*/
+
+p{background-color: #ffb5c1; /*changes background color of paragraphs*/
+  color: #128f32;
+  font-family: sans-serif;} /*changes txt color of paragraphs*/
+
+  #skyblue { background-color:#ADD8E6;
+    color: #5D0F0D;}
+
+    #blockQuote {border-style: solid;
+      border-color: brown;
+      border-width: 8px;
+      padding: 16px;
+      font-style: italic;}
+  
