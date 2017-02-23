@@ -16,3 +16,8 @@ a:link
   border-width: 5px;
   border-style: solid;
 }
+
+body{
+background-image: url(images/background.jpg);
+background-repeat: repeat;
+}
