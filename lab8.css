@@ -1,0 +1,23 @@
+.windowpane{
+  background-color: 	#ADD8E6;
+  width: 500px;
+  height: 400px;
+}
+a:link
+  {
+  color:        #000380;
+  }
+#country {
+  text-align: center;
+}
+
+#temple {
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+
+body{
+background-image: url(images/background.jpg);
+background-repeat: repeat;
+}
