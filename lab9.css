@@ -4,11 +4,6 @@ body {
     font-size: 120%;
 }
 
-p {
-    background-color: yellow;
-    style="border:2px solid black;"
-}
-
 a:link {
     color: #000380;
     font-size: 90%;
@@ -16,7 +11,7 @@ a:link {
 
 #Malaysia {
     width: 500px;
-    border: 8px orange solid;
+    border: 8px black solid;
     margin-left: auto;
     margin-right: auto;
     border-collapse: separate;
