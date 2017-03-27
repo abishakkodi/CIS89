@@ -1,0 +1,51 @@
+.title{
+  text-align: center;
+}
+
+.header{
+  align-items: left;
+}
+body{
+  background-image: url(images/finalBackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+
+#history, #transport { background-color: white;
+}
+
+li{
+  background-color: white;
+}
+h3>span{
+  border-radius: 20px;
+  background-color: white;
+  font-size: 30px;
+  box-shadow: 0 4px 8px 0;
+  padding: 10px;
+  margin-left: auto;
+  min-width: 50px;
+}
+p.description{
+background-color: #A1FBFF;
+box-shadow: 0 4px 8px 0;
+padding: 15px;
+max-width: 200px;
+min-height: 200px;
+}
+
+.hotspring{
+  border: 5px;
+  border-color: black;
+
+}
+
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 5px;
+  border-radius: 5px;
+}
